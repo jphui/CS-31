@@ -1,5 +1,5 @@
 # CS-31
-UCLA CS 31 Introduction to Computer Science
+UCLA CS 31 Introduction to Computer Science 1
 
 These are coursework projects that were a part of UCLA's CS 31 course in the Winter 2019 quarter, taught by Howard Stahl. Scores were all A-range except for Project 7 in which I had forgotten to remove my test code and rather than passing and end-user defined variable, I kept passing in a hard-coded value.
 
